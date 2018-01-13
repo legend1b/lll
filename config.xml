@@ -18,6 +18,8 @@
 
   <!-- We'll include the Barcode plugin as an example -->
   <plugin name="cordova-plugin-statusbar" spec="~2.4.1" />
+  <preference name="StatusBarBackgroundColor" value="#0066FF" />
+
 
 <icon src="icon.png" />
 </widget>

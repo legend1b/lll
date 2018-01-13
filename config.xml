@@ -17,7 +17,7 @@
   </author>
 
   <!-- We'll include the Barcode plugin as an example -->
-  <plugin name="https://github.com/apache/cordova-plugin-statusbar.git" spec="~1" source="git"/>
+  <plugin name="https://github.com/apache/cordova-plugin-statusbar.git" spec="2.4.2" source="git"/>
 
 <icon src="icon.png" />
 </widget>
